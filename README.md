@@ -25,7 +25,8 @@
 python augment.py --input=example.txt
 ```
 을 실행시켜준다.
-</br></br>
+
+</br></br></br></br>
 
 ### 출처
 [EDA-영어.ver code](https://github.com/jasonwei20/eda_nlp/blob/master/README.md)
