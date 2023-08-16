@@ -28,6 +28,7 @@ python augment.py --input=example.txt
 
 #### 출처
 [EDA-영어.ver code](https://github.com/jasonwei20/eda_nlp/blob/master/README.md)
-&nbsp&nbsp : augment.py 사용
+ : augment.py 사용
+ 
 [EDA-한국어.ver code](https://github.com/catSirup/KorEDA/blob/master/eda.py)
-&nbsp&nbsp : eda.py 사용
+ : eda.py 사용
