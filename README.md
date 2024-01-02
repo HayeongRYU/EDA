@@ -1,7 +1,6 @@
-# EDA
-## 1) EDA
-: **Easy Data Augmentation** Techniques for Boodting performance on Text Classification Tasks
-= 자연어 처리에서의 데이터 증강 기법
+# Easy Data Augmentation Techniques
+## 1) [**Easy Data Augmentation** Techniques for Boodting performance on Text Classification Tasks] (https://arxiv.org/pdf/1901.11196.pdf)
+ : 자연어 처리에서의 데이터 증강 기법
 
 1. 유의어로 교체(Synonym Replacement, **SR**)
 
